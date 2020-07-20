@@ -173,11 +173,9 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
     vendor/bq/freezerfhd/proprietary/lib/libblisrc32.so:system/lib/libblisrc32.so \
     vendor/bq/freezerfhd/proprietary/lib/libbluetooth_hw_test.so:system/lib/libbluetooth_hw_test.so \
-    vendor/bq/freezerfhd/proprietary/lib/libbluetooth_mtk.so:system/lib/libbluetooth_mtk.so \
     vendor/bq/freezerfhd/proprietary/lib/libbluetooth_mtk_pure.so:system/lib/libbluetooth_mtk_pure.so \
     vendor/bq/freezerfhd/proprietary/lib/libbluetooth_relayer.so:system/lib/libbluetooth_relayer.so \
     vendor/bq/freezerfhd/proprietary/lib/libbluetoothem_mtk.so:system/lib/libbluetoothem_mtk.so \
-    vendor/bq/freezerfhd/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
     vendor/bq/freezerfhd/proprietary/lib/libbtcusttable.so:system/lib/libbtcusttable.so \
     vendor/bq/freezerfhd/proprietary/lib/libbwc.so:system/lib/libbwc.so \
     vendor/bq/freezerfhd/proprietary/lib/libcam.camadapter.so:system/lib/libcam.camadapter.so \
@@ -323,7 +321,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib64/libblisrc.so:system/lib64/libblisrc.so \
     vendor/bq/freezerfhd/proprietary/lib64/libblisrc32.so:system/lib64/libblisrc32.so \
     vendor/bq/freezerfhd/proprietary/lib64/libbluetooth_hw_test.so:system/lib64/libbluetooth_hw_test.so \
-    vendor/bq/freezerfhd/proprietary/lib64/libbluetooth_mtk.so:system/lib64/libbluetooth_mtk.so \
     vendor/bq/freezerfhd/proprietary/lib64/libbluetooth_mtk_pure.so:system/lib64/libbluetooth_mtk_pure.so \
     vendor/bq/freezerfhd/proprietary/lib64/libbluetooth_relayer.so:system/lib64/libbluetooth_relayer.so \
     vendor/bq/freezerfhd/proprietary/lib64/libbluetoothem_mtk.so:system/lib64/libbluetoothem_mtk.so \
