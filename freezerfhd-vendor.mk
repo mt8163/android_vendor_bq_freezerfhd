@@ -130,17 +130,12 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/drm/libdrmctaplugin.so:system/lib/drm/libdrmctaplugin.so \
     vendor/bq/freezerfhd/proprietary/lib/drm/libdrmmtkplugin.so:system/lib/drm/libdrmmtkplugin.so \
     vendor/bq/freezerfhd/proprietary/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
-    vendor/bq/freezerfhd/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/audio.primary.mt8163.so:system/lib/hw/audio.primary.mt8163.so \
-    vendor/bq/freezerfhd/proprietary/lib/hw/audio_policy.stub.so:system/lib/hw/audio_policy.stub.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/camera.mt8163.so:system/lib/hw/camera.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/gatekeeper.mt8163.so:system/lib/hw/gatekeeper.mt8163.so \
-    vendor/bq/freezerfhd/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/gralloc.mt8163.so:system/lib/hw/gralloc.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/hwcomposer.mt8163.so:system/lib/hw/hwcomposer.mt8163.so \
-    vendor/bq/freezerfhd/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/memtrack.mt8163.so:system/lib/hw/memtrack.mt8163.so \
-    vendor/bq/freezerfhd/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/sensors.mt8163.so:system/lib/hw/sensors.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
     vendor/bq/freezerfhd/proprietary/lib/lib3a.so:system/lib/lib3a.so \
@@ -301,16 +296,11 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/zterilPara:system/lib/zterilPara \
     vendor/bq/freezerfhd/proprietary/lib/libtz_uree.so:system/lib/libtz_uree.so \
     vendor/bq/freezerfhd/proprietary/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
-    vendor/bq/freezerfhd/proprietary/lib64/hw/audio.a2dp.default.so:system/lib64/hw/audio.a2dp.default.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/audio.primary.mt8163.so:system/lib64/hw/audio.primary.mt8163.so \
-    vendor/bq/freezerfhd/proprietary/lib64/hw/audio_policy.stub.so:system/lib64/hw/audio_policy.stub.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/camera.mt8163.so:system/lib64/hw/camera.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/gatekeeper.mt8163.so:system/lib64/hw/gatekeeper.mt8163.so \
-    vendor/bq/freezerfhd/proprietary/lib64/hw/gralloc.default.so:system/lib64/hw/gralloc.default.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/gralloc.mt8163.so:system/lib64/hw/gralloc.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/hwcomposer.mt8163.so:system/lib64/hw/hwcomposer.mt8163.so \
-    vendor/bq/freezerfhd/proprietary/lib64/hw/local_time.default.so:system/lib64/hw/local_time.default.so \
-    vendor/bq/freezerfhd/proprietary/lib64/hw/power.default.so:system/lib64/hw/power.default.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/memtrack.mt8163.so:system/lib64/hw/memtrack.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/sensors.mt8163.so:system/lib64/hw/sensors.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/vibrator.default.so:system/lib64/hw/vibrator.default.so \
