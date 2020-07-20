@@ -299,6 +299,7 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
     vendor/bq/freezerfhd/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
     vendor/bq/freezerfhd/proprietary/lib/zterilPara:system/lib/zterilPara \
+    vendor/bq/freezerfhd/proprietary/lib/libtz_uree.so:system/lib/libtz_uree.so \
     vendor/bq/freezerfhd/proprietary/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/audio.a2dp.default.so:system/lib64/hw/audio.a2dp.default.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/audio.primary.mt8163.so:system/lib64/hw/audio.primary.mt8163.so \
@@ -440,6 +441,7 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib64/libzteevdo-ril.so:system/lib64/libzteevdo-ril.so \
     vendor/bq/freezerfhd/proprietary/lib64/mtk-ril.so:system/lib64/mtk-ril.so \
     vendor/bq/freezerfhd/proprietary/lib64/mtk-rilmd2.so:system/lib64/mtk-rilmd2.so \
+    vendor/bq/freezerfhd/proprietary/lib64/libtz_uree.so:system/lib64/libtz_uree.so \
     vendor/bq/freezerfhd/proprietary/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
     vendor/bq/freezerfhd/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
     vendor/bq/freezerfhd/proprietary/vendor/firmware/DF_VERSION:system/vendor/firmware/DF_VERSION \
