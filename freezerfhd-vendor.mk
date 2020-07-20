@@ -139,6 +139,7 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/hw/gralloc.mt8163.so:system/lib/hw/gralloc.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/hwcomposer.mt8163.so:system/lib/hw/hwcomposer.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
+    vendor/bq/freezerfhd/proprietary/lib/hw/memtrack.mt8163.so:system/lib/hw/memtrack.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/sensors.mt8163.so:system/lib/hw/sensors.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
@@ -310,6 +311,7 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib64/hw/hwcomposer.mt8163.so:system/lib64/hw/hwcomposer.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/local_time.default.so:system/lib64/hw/local_time.default.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/power.default.so:system/lib64/hw/power.default.so \
+    vendor/bq/freezerfhd/proprietary/lib64/hw/memtrack.mt8163.so:system/lib64/hw/memtrack.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/sensors.mt8163.so:system/lib64/hw/sensors.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/vibrator.default.so:system/lib64/hw/vibrator.default.so \
     vendor/bq/freezerfhd/proprietary/lib64/lib3a.so:system/lib64/lib3a.so \
