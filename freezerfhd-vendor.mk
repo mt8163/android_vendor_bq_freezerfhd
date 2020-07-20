@@ -240,7 +240,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/libfmcust.so:system/lib/libfmcust.so \
     vendor/bq/freezerfhd/proprietary/lib/libged.so:system/lib/libged.so \
     vendor/bq/freezerfhd/proprietary/lib/libgpu_aux.so:system/lib/libgpu_aux.so \
-    vendor/bq/freezerfhd/proprietary/lib/libgui_ext.so:system/lib/libgui_ext.so \
     vendor/bq/freezerfhd/proprietary/lib/libhwm.so:system/lib/libhwm.so \
     vendor/bq/freezerfhd/proprietary/lib/libimageio.so:system/lib/libimageio.so \
     vendor/bq/freezerfhd/proprietary/lib/libimageio_FrmB.so:system/lib/libimageio_FrmB.so \
@@ -392,7 +391,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib64/libfmcust.so:system/lib64/libfmcust.so \
     vendor/bq/freezerfhd/proprietary/lib64/libged.so:system/lib64/libged.so \
     vendor/bq/freezerfhd/proprietary/lib64/libgpu_aux.so:system/lib64/libgpu_aux.so \
-    vendor/bq/freezerfhd/proprietary/lib64/libgui_ext.so:system/lib64/libgui_ext.so \
     vendor/bq/freezerfhd/proprietary/lib64/libhwm.so:system/lib64/libhwm.so \
     vendor/bq/freezerfhd/proprietary/lib64/libimageio.so:system/lib64/libimageio.so \
     vendor/bq/freezerfhd/proprietary/lib64/libimageio_FrmB.so:system/lib64/libimageio_FrmB.so \
