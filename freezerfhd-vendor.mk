@@ -294,6 +294,7 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
     vendor/bq/freezerfhd/proprietary/lib/zterilPara:system/lib/zterilPara \
     vendor/bq/freezerfhd/proprietary/lib/libtz_uree.so:system/lib/libtz_uree.so \
+    vendor/bq/freezerfhd/proprietary/lib/libhevce_sb.ca7.android.so:system/lib/libhevce_sb.ca7.android.so \
     vendor/bq/freezerfhd/proprietary/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/audio.primary.mt8163.so:system/lib64/hw/audio.primary.mt8163.so \
     vendor/bq/freezerfhd/proprietary/lib64/hw/camera.mt8163.so:system/lib64/hw/camera.mt8163.so \
