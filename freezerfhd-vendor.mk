@@ -98,7 +98,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
     vendor/bq/freezerfhd/proprietary/etc/.tp/thermal.off.conf:system/etc/.tp/thermal.off.conf \
     vendor/bq/freezerfhd/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
-    vendor/bq/freezerfhd/proprietary/etc/clatd.conf:system/etc/clatd.conf \
     vendor/bq/freezerfhd/proprietary/etc/custom.conf:system/etc/custom.conf \
     vendor/bq/freezerfhd/proprietary/etc/firmware/ROMv2_lm_patch_1_0_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_0_hdr.bin \
     vendor/bq/freezerfhd/proprietary/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin \
@@ -161,7 +160,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib/liba3m.so:system/lib/liba3m.so \
     vendor/bq/freezerfhd/proprietary/lib/libacdk.so:system/lib/libacdk.so \
     vendor/bq/freezerfhd/proprietary/lib/libaed.so:system/lib/libaed.so \
-    vendor/bq/freezerfhd/proprietary/lib/libaudio-resampler.so:system/lib/libaudio-resampler.so \
     vendor/bq/freezerfhd/proprietary/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
     vendor/bq/freezerfhd/proprietary/lib/libaudiocomponentengine.so:system/lib/libaudiocomponentengine.so \
     vendor/bq/freezerfhd/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
@@ -312,7 +310,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/lib64/liba3m.so:system/lib64/liba3m.so \
     vendor/bq/freezerfhd/proprietary/lib64/libacdk.so:system/lib64/libacdk.so \
     vendor/bq/freezerfhd/proprietary/lib64/libaed.so:system/lib64/libaed.so \
-    vendor/bq/freezerfhd/proprietary/lib64/libaudio-resampler.so:system/lib64/libaudio-resampler.so \
     vendor/bq/freezerfhd/proprietary/lib64/libaudiocompensationfilter.so:system/lib64/libaudiocompensationfilter.so \
     vendor/bq/freezerfhd/proprietary/lib64/libaudiocomponentengine.so:system/lib64/libaudiocomponentengine.so \
     vendor/bq/freezerfhd/proprietary/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
