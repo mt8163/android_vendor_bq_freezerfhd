@@ -92,6 +92,8 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerfhd/proprietary/bin/terservice:system/bin/terservice \
     vendor/bq/freezerfhd/proprietary/bin/tertestclient:system/bin/tertestclient \
     vendor/bq/freezerfhd/proprietary/bin/thermal_manager:system/bin/thermal_manager \
+    vendor/bq/freezerfhd/proprietary/bin/thermal:system/bin/thermal \
+    vendor/bq/freezerfhd/proprietary/bin/thermald:system/bin/thermald \
     vendor/bq/freezerfhd/proprietary/bin/wmt_loader:system/bin/wmt_loader \
     vendor/bq/freezerfhd/proprietary/bin/xlog:system/bin/xlog \
     vendor/bq/freezerfhd/proprietary/etc/.tp/.ht120.mtc:system/etc/.tp/.ht120.mtc \
